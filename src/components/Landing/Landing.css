@@ -1,0 +1,50 @@
+h1 {
+    color: #574141;
+    text-align: center;
+}
+
+p {
+    color: #555;
+    margin-bottom: 0px;
+}
+
+
+/* Optional: Style links
+a {
+    color: #007bff;
+    text-decoration: none;
+} */
+
+/* a:hover {
+    text-decoration: underline;
+} */
+.land-cover {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#inst {
+    margin-bottom: 4px;
+    font-size: 1.2rem;
+    /* font-weight: ; */
+    text-align: left;
+    color: rgb(78, 3, 3);
+}
+.instruct {
+    display: flex;
+    flex-direction: column;
+    /* align-items: flex-start; */
+    max-width: 650px;
+}
+.inst-end{
+    font-size: 1.4rem;
+    color: rgb(42, 127, 42);
+}
+.inst-head{
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: rgb(101, 19, 177);
+    text-align: left;
+    /* margin: auto; */
+}
